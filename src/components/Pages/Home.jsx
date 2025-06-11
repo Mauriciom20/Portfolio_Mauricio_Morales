@@ -5,8 +5,14 @@ export const Home = () => {
   return (
     <>      
       <main>
-        <h2>Welcome to My React App</h2>
+        <div class = "home_h2">
+            <h2>Mauricio Morales</h2>
+            <h3>Full Stack Software Developer</h3>
+            
+        </div>
+        <div class = "home_content">
         <p>This is the home page content.</p>
+        </div>
       </main>      
     </>
   );
