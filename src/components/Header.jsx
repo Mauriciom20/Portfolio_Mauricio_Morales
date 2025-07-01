@@ -6,10 +6,11 @@ export const Header = () => {
     <header>
       <h1>My React App</h1>
       <Navbar>
-        <ItemNavbar itemName='Home' />
-        <ItemNavbar itemName="AboutMe" />
-        <ItemNavbar itemName="Profile" />
-        <ItemNavbar itemName="Experience" />
+        <ItemNavbar itemName="Inicio" link="#home" />
+        <ItemNavbar itemName="Sobre mí" link="#about" />
+        <ItemNavbar itemName="Habilidades" link="#skills" />
+        <ItemNavbar itemName="Proyectos" link="#projects" />
+        <ItemNavbar itemName="Contacto" link="#contact" />
       </Navbar>
     </header>
   );

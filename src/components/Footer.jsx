@@ -3,10 +3,12 @@ import { Navbar } from "./Navbar";
 
 export const Footer = () => {
   return (
-      <Navbar>
-        <ItemNavbar itemName='Facebook' />
+    <footer>
+      <Navbar className="footer-navbar">
+        <ItemNavbar itemName="Facebook" />
         <ItemNavbar itemName="Instagram" />
         <ItemNavbar itemName="WhatsApp" />
       </Navbar>
+    </footer>
   );
 };

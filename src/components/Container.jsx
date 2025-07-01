@@ -1,7 +1,7 @@
 
 export const Container = ({ children }) => {
   return (
-    <main>
+    <main className="container">
       {children}
     </main>
   )
