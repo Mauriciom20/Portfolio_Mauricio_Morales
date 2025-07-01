@@ -1,12 +1,67 @@
-# React + Vite
+# Portfolio - Mauricio Morales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio built with **React + Vite**.  
+Here you'll find information about me, my skills, the projects I’ve developed, and how to get in touch.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
 
-## Expanding the ESLint configuration
+I’m **Mauricio Morales**, a software development student at **SENA** (Centro de Comercio y Turismo, Armenia - Quindío, Colombia).  
+I'm focused on Full Stack development using technologies such as:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Node.js
+- Express
+- MySQL
+- JavaScript / TypeScript
+
+---
+
+## 🛠 Technologies Used
+
+This project was built with:
+
+- ⚛️ React (with Vite)
+- 💅 Custom CSS
+- 🗃️ HTML5
+- 🧠 Modern JavaScript (ES6+)
+- 📦 Git + GitHub
+
+---
+
+## 💻 Site Structure
+
+The portfolio includes the following sections:
+
+- **Inicio** – Brief introduction and avatar  
+- **Sobre mí** – Personal and professional background  
+- **Habilidades** – Technologies I work with  
+- **Proyectos** – APIs and frontend projects  
+- **Contacto** – GitHub and email info
+
+---
+
+## 🚀 How to Run This Project
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Mauriciom20/intro-react.git
+cd intro-react
+
+2. Install dependencies:
+npm install
+
+3. Start development server:
+
+npm run dev
+
+🔗 Important Links
+GitHub Repository
+https://github.com/Mauriciom20/intro-react
+My GitHub Profile
+https://github.com/Mauriciom20
+
+📬 Contact
+morales.vidal2001@gmail.com
