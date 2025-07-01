@@ -1,3 +1,8 @@
-export const ItemNavbar = ({ itemName = 'Inicio', link = '#home' }) => (
-  <li><a href={link}>{itemName}</a></li>
+export const ItemNavbar = ({ itemName = 'Enlace', link = '#' }) => (
+  <li>
+    <a href={link} target="_blank" rel="noopener noreferrer">
+      {itemName}
+    </a>
+  </li>
 );
+
